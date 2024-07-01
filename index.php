@@ -66,3 +66,5 @@ function handle_delete()
     echo json_encode($response);
 }
 ?>
+git remote remove origin
+git remote add origin https://github.com/EdmarLeopoldo/API-RESTful.git
